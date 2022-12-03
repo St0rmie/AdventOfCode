@@ -1,4 +1,4 @@
-CFLAGS =-Wall -Werror -pedantic
+CFLAGS =-g -Wall -Werror -pedantic
 FILENAME = day2p1 day2p2
 
 day2: day2p1.cpp day2p2.cpp

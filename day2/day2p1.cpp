@@ -1,6 +1,5 @@
 #include <string>
 #include <iostream>
-#include <algorithm>
 using namespace std;
 
 #define LOSS 0
