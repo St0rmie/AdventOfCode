@@ -8,6 +8,9 @@ My first go on AdventOfCode (TW: bad coding ahead)
 - Day 2: TBD
 - Day 3: TBD
 - Day 4: TBD
+...
+
+---
 
 # 2022
 
@@ -15,5 +18,6 @@ My first go on AdventOfCode (TW: bad coding ahead)
 - Day 2:⭐⭐
 - Day 3:⭐⭐
 - Day 4:⭐⭐
+...
 
 ---

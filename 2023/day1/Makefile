@@ -42,8 +42,8 @@ testp1: p1
 	./$(DAY)p1 < inputp1.txt
 
 testp2: p2
-	./$(DAY)p2 < inputp2.txt
+	./$(DAY)p2 < inputp1.txt
 
 test: p1 p2
 	./$(DAY)p1 < inputp1.txt
-	./$(DAY)p2 < inputp2.txt
+	./$(DAY)p2 < inputp1.txt
