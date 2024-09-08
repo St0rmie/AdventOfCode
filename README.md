@@ -25,7 +25,7 @@ My personal repository for my resolutions on Advent of Code (TW: bad coding ahea
 # 2021
 
 - Day 1:⭐⭐
-- Day 2:⭐ -
+- Day 2:⭐⭐
 - Day 3: TBD
 - Day 4: TBD
 ...
