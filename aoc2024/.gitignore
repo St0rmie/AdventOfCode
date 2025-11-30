@@ -9,5 +9,8 @@
 /.vscode/
 /.idea/
 
+# Inputs are stored locally
+/inputs
+
 # macOS
 .DS_Store
