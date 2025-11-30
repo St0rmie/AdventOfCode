@@ -22,3 +22,11 @@ cargo run -- 1 2
 ```bash
 ./clean.sh
 ```
+
+### 4) Create new day template file
+```bash
+cargo run --bin aoc2024_new <day>
+# Example: create day 1 files
+cargo run --bin aoc2024_new 1
+# This will create days/day01.rs template file
+```
