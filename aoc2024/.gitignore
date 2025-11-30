@@ -1,0 +1,13 @@
+# Cargo / Rust build output
+/target/
+**/*.rs.bk
+
+# Ignore auto-generated file
+/src/days_mod.rs
+
+# editor things
+/.vscode/
+/.idea/
+
+# macOS
+.DS_Store
