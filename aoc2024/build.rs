@@ -21,7 +21,7 @@ fn main() {
             // XX must be numbers
             if day_num.parse::<u32>().is_ok() {
                 // mod declaration
-                modules.push_str(&format!("pub mod {};\n", filename));
+                modules.push_str(&format!("#[path = \"days/{}.rs\"]\npub mod {};\n", filename, filename));
 
                 registry.push_str(&format!(
                     "    map.insert(({0}, 1), {1}::part1);\n    map.insert(({0}, 2), {1}::part2);\n",
